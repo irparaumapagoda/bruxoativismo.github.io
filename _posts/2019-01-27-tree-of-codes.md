@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tree of Codes'
-author: sal
+author: luis
 categories: [Entretenimento]
 image: assets/images/2.jpg
 ---

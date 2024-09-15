@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Cristal Muniz e o Lixo Zero: Uma Jornada Mágica e Consciente!'
+author: luis
 categories: [Livros]
 image: assets/images/uma-vida-sem-lixo.jpg
 ---

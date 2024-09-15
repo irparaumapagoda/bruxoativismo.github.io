@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'About Bundler'
-author: sal
+author: luis
 categories: [Saúde]
 image: assets/images/2.jpg
 ---
