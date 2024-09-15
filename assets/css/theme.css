@@ -302,9 +302,6 @@ a.text-dark:hover {
         font-weight: 700;
         line-height: 1.1;
     }
-	.navbar-brand-mobile {
-		padding-left:13px;
-	}
 }
 .bg-black {
 	background-color:#000;
@@ -807,3 +804,8 @@ div.a2a_full_footer {display:none;}
 	 }
  }
  
+ @media (max-width: 992px) { 
+	.navbar-brand-mobile {
+		padding-left:13px;
+	}
+ }
