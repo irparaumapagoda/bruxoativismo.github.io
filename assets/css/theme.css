@@ -810,7 +810,7 @@ div.a2a_full_footer {display:none;}
 	}
  }
 
- @media (max-width: 575.98px) {
+ @media (max-width: 576px) {
 	.navbar-brand-mobile {
 		width:200px;
 		height:auto;
