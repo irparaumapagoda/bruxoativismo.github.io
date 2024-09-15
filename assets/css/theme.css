@@ -132,7 +132,7 @@ a.text-dark:hover {
 	border-color:transparent;
 }
 .btn-link.btn-danger {
-	color:#ea2f65;
+	color:#FD6C23;
 	border-color:transparent;
 }
 .btn-link.btn-light {
@@ -349,7 +349,7 @@ a.text-dark:hover {
 	fill:#ffde03 !important;
 }
 .bg-danger {
-	fill:#ea2f65 !important;
+	fill:#FD6C23 !important;
 }
 .bg-light {
 	fill:#f8f9fa !important;
@@ -386,7 +386,7 @@ a.text-dark:hover {
 	top:20px;
 	right:20px;
 	z-index:1;
-	background:#ea2f65;
+	background:#FD6C23;
 	width:55px;
 	height:55px;
 	padding:12.5px 0;
@@ -492,8 +492,8 @@ a.text-dark:hover {
 }
 .alert-danger {
 	color:#fff;
-	background-color:#ea2f65;
-	border-color:#ea2f65;
+	background-color:#FD6C23;
+	border-color:#FD6C23;
 }
 .alert-danger hr {
 	border-top-color:#e81854;
