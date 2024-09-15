@@ -804,7 +804,7 @@ div.a2a_full_footer {display:none;}
 	 }
  }
  
-@media (min-width: 993px) { 
+@media (min-width: 993px) and (max-width:1200px) { 
 	.navbar-brand-mobile {
 		width:415px;
 		padding-left:13px;
