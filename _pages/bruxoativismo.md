@@ -1,6 +1,6 @@
 ---
 title: "Bruxoativismo: Magia em Harmonia com a Terra"
-permalink: "/sobre-nos.html"
+permalink: "/bruxoativismo.html"
 ---
 
 

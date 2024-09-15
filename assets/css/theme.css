@@ -804,6 +804,13 @@ div.a2a_full_footer {display:none;}
 	 }
  }
  
+@media (min-width: 993px) { 
+	.navbar-brand-mobile {
+		width:415px;
+		padding-left:13px;
+	}
+ }
+
  @media (max-width: 992px) { 
 	.navbar-brand-mobile {
 		width:300px;
