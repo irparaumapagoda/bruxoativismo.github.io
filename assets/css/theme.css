@@ -302,6 +302,9 @@ a.text-dark:hover {
         font-weight: 700;
         line-height: 1.1;
     }
+	.navbar-brand-mobile {
+		padding-left:13px;
+	}
 }
 .bg-black {
 	background-color:#000;
