@@ -1,11 +1,11 @@
 # Site
-name: 'Bem em Foco - Sua vida em dia'
+name: 'Bruxoativismo'
 description: 'Política, Economia, Esportes, Entretenimento, Vida, Saúde, Tecnologia'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'bruxoativismo'
-email: 'contato@bruxoativismo.com'
+email: 'bruxoativismo@outlook.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 locale: pt-BR
 
@@ -25,7 +25,7 @@ authors:
     site: https://luishenriquetp.github.io
     avatar: /assets/images/avatar1.jpg
     bio: "Oi, eu sou o Luís, idealizador do projeto Bruxoativismo. Espero poder passar informações úteis e incentivar mais ações conscientes entre bruxos e pagãos!"
-    email: luishenriquetp@gmail.com
+    email: bruxoativismo@outlook.com
     twitter: https://twitter.com/luishenriquetp
 
   jane:
