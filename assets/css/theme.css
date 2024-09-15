@@ -809,3 +809,20 @@ div.a2a_full_footer {display:none;}
 		padding-left:13px;
 	}
  }
+
+ @media (max-width: 575.98px) {
+	.table-responsive-sm {
+	  display: block;
+	  width: 100%;
+	  overflow-x: auto;
+	  -webkit-overflow-scrolling: touch;
+	  -ms-overflow-style: -ms-autohiding-scrollbar; }
+	  .table-responsive-sm > .table-bordered {
+		border: 0; } 
+		.navbar-brand-mobile {
+			width:200px;
+			height:auto;
+			padding-left:0;
+		}
+	}
+	  
