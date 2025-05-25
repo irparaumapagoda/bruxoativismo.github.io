@@ -2,7 +2,7 @@
 layout: post
 title: 'About Bundler'
 author: luis
-categories: [Saúde]
+categories: [Ancestralidade]
 image: assets/images/2.jpg
 ---
 

@@ -32,7 +32,7 @@ No paganismo, a interação com os elementos é central. Terra, água, fogo, ar 
 
 - **Fogo**: Ao evitar o consumo excessivo de eletricidade e reduzir a necessidade de processos industriais poluentes, também estamos honrando o elemento fogo. A energia, seja na forma de calor ou eletricidade, é um recurso valioso, e Cristal nos lembra da importância de usá-la com responsabilidade.
 
-- **Ar**: Muitas das práticas lixo zero ajudam a melhorar a qualidade do ar que respiramos, seja pela redução de plásticos, pela escolha de produtos sem toxinas ou pela diminuição da poluição geral. Respirar ar puro é essencial para manter o equilíbrio de nossa saúde física e espiritual.
+- **Ar**: Muitas das práticas lixo zero ajudam a melhorar a qualidade do ar que respiramos, seja pela redução de plásticos, pela escolha de produtos sem toxinas ou pela diminuição da poluição geral. Respirar ar puro é essencial para manter o equilíbrio de nossa Ancestralidade física e espiritual.
 
 - **Espírito**: O caminho do lixo zero é, em sua essência, um caminho espiritual. Cristal Muniz ensina que viver com menos não é apenas uma escolha prática, mas também uma maneira de se reconectar com o espírito da Terra. Para muitos pagãos e bruxos, isso significa viver em harmonia com os ciclos naturais e respeitar o planeta como um ser vivo.
 

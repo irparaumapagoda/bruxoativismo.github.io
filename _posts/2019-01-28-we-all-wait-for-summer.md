@@ -2,7 +2,7 @@
 layout: post
 title: 'We all wait for summer'
 author: jane
-categories: [Vida]
+categories: [Sustentabilidade]
 image: assets/images/1.jpg
 tags: [featured]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 'Never stopped worrying or loving the bomb'
 author: luis
-categories: [Saúde]
+categories: [Ancestralidade]
 image: assets/images/14.jpg
 tags: featured
 ---

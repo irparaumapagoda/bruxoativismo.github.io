@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Education must also train one for quick, resolute and effective thinking.'
-categories: [Política]
+categories: [Consciência de Classe]
 image: assets/images/3.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Press and education'
 author: luis
-categories: [Economia]
+categories: [Ecologia]
 image: assets/images/7.jpg
 ---
 
